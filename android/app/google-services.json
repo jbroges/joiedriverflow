@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "755199955227",
+    "project_id": "joiedriver-f897d",
+    "storage_bucket": "joiedriver-f897d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755199955227:android:ac5353871ffab3a83a03be",
+        "android_client_info": {
+          "package_name": "com.frappestudios.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755199955227-20kh9esjkrikp758rek82b4sdbklp6hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frappestudios.com",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "755199955227-buq4vs6obf6jvm3bf7r3am67hllg6ij1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQFduWmc5-7TEdLdOmgwQ1o2enlcAZmZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755199955227-buq4vs6obf6jvm3bf7r3am67hllg6ij1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755199955227-c1u98thv606q989avs46bqqo1o1dsebt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.frappestudios.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

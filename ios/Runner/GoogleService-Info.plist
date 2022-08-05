@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>755199955227-c1u98thv606q989avs46bqqo1o1dsebt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.755199955227-c1u98thv606q989avs46bqqo1o1dsebt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>755199955227-20kh9esjkrikp758rek82b4sdbklp6hh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyANPuIpIw3CT3gzUq5h3S7xmCYT55RImzA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>755199955227</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.frappestudios.com</string>
+	<key>PROJECT_ID</key>
+	<string>joiedriver-f897d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>joiedriver-f897d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:755199955227:ios:868e9668915e7e793a03be</string>
+</dict>
+</plist>
